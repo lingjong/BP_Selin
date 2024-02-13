@@ -1,3 +1,6 @@
+import seaborn as sn 
+import pandas as pd
+
 bln_age = 24
 def age_range():
     for i in range(bln_age):
